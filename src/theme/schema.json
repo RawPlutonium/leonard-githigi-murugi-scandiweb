@@ -1,0 +1,50 @@
+{
+    "scandiweb" : {
+        "name" : "scandiweb",
+        "colors" : {
+            "body" : "#FFFFFF",
+            "navText": "#5ECE7B",
+            "textH2": "#1D1F22",
+            "textProduct": "#1D1F22",
+            "prodColor1": "#0F6450",
+            "prodColor2": "#2B2B2B",
+            "prodColor3": "#D3D2D5",
+            "prodColor4": "#1D1F22",
+            "prodColor5": "#15A4C3",
+            "prodColor6": "#EA8120",
+            "buttonColor1": "#5ECE7B",
+            "cartOverlay": "rgba(57, 55, 72, 0.22)",
+            "outOfStock": "#8D8F9A"
+        },
+        "font": {
+            "family": {
+                "primary": "Raleway",
+                "pdp": "Roboto Condensed",
+                "pdpContent":  "Roboto"
+
+            },
+            "weightSize": {
+                "navText" : [600,"16px"],
+                "priceText": [500,"18px"],
+                "prodNameText": [300, "18px"],
+                "pdpTitle": [600, "30px"],
+                "pdpContent": [400,"30px"],
+                "pdpPrice": [700,"24px"],
+                "pdpButton": [600, "16px"],
+                "cartH1": [700,"32px"],
+                "cartProdName": [600, "30px"],
+                "cartProdDesc": [400, "30px"],
+                "cartProdPrice": [700, "24px"],
+                "cartProdSize":[700,"16px"],
+                "cartProdOrder1": [400,"24px"],
+                "cartProdOrder2": [700,"24px"],
+                "cartProdButton": [600, "14px"]
+            }
+        },
+        "button": {
+            "background": "#5ECE7B",
+            "fSize": "16px",
+            "fWeight": "600"
+        }
+    }
+}
